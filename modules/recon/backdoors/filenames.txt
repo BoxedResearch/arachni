@@ -14,3 +14,12 @@ c-h.v2.php
 php-backdoor.php
 simple-backdoor.php
 cmdasp.asp
+cmd.php
+mysql.php
+sql.php
+shell.pl
+shell.cgi
+cmd.sh
+cmd.pl
+shell.py
+cmd.py
